@@ -1,0 +1,5 @@
+kerek emes: b, v, d, e, j, z, y, k, q, l, m, p, r, s, t, w, f, x, h, c
+
+kerek: a-a', g-g', n-n', o-o', u-u', i-i', sh, ch
+
+
